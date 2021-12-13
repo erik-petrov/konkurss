@@ -14,7 +14,7 @@ if(isset($_REQUEST["like"])){
 <head>
     <meta charset="UTF-8">
     <title>Fotokonkurss</title>
-    <link rel="stylesheet" href="db.css">
+    <link rel="stylesheet" href="dbKonk.css">
 </head>
 <body>
 <nav>

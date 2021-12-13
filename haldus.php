@@ -37,7 +37,7 @@ if(isset($_REQUEST["peida"])){
 <head>
     <meta charset="UTF-8">
     <title>Fotokonkurss halduseleht</title>
-    <link rel="stylesheet" href="db.css">
+    <link rel="stylesheet" href="dbKonk.css">
 </head>
 <body>
 <nav>
